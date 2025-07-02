@@ -57,11 +57,11 @@ Solution exists
 ... (completed grid)
 ```
 ## 🧪 How to Run
-Clone the repository or download SudokuSolver.java
+-Clone the repository or download SudokuSolver.java
 
-Open a terminal or use any Java IDE
+-Open a terminal or use any Java IDE
 
-Compile and run:
+-Compile and run:
 
 javac SudokuSolver.java
 
