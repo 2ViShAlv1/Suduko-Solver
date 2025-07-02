@@ -62,6 +62,7 @@ Open a terminal or use any Java IDE
 Compile and run:
 
 javac SudokuSolver.java
+
 java SudokuSolver
 
 ## 🙋 Author
