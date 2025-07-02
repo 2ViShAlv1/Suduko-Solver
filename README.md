@@ -56,7 +56,7 @@ Solution exists
 4 9 7 1 5 7 8 6 2 
 ... (completed grid)
 ```
-##🧪 How to Run
+## 🧪 How to Run
 Clone the repository or download SudokuSolver.java
 Open a terminal or use any Java IDE
 Compile and run:
@@ -64,7 +64,7 @@ Compile and run:
 javac SudokuSolver.java
 java SudokuSolver
 
-##🙋 Author
+## 🙋 Author
 Vishal Verma
 📫 LinkedIn- www.linkedin.com/in/vishal-verma-6a99a5328
 📌 GitHub- 2ViShAlv1
