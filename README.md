@@ -66,8 +66,8 @@ java SudokuSolver
 
 ## 🙋 Author
 Vishal Verma
-📫 LinkedIn- www.linkedin.com/in/vishal-verma-6a99a5328
-📌 GitHub- 2ViShAlv1
+\n 📫 LinkedIn- www.linkedin.com/in/vishal-verma-6a99a5328
+\n 📌 GitHub- 2ViShAlv1
 
 #Java #SudokuSolver #Backtracking #Algorithms #DSA #ProblemSolving #JavaProjects
 
