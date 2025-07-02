@@ -58,7 +58,9 @@ Solution exists
 ```
 ## 🧪 How to Run
 Clone the repository or download SudokuSolver.java
+
 Open a terminal or use any Java IDE
+
 Compile and run:
 
 javac SudokuSolver.java
