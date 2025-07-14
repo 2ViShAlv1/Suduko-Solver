@@ -87,7 +87,7 @@ public class SudokuSolver {
             System.out.println("Solution exists");
             printSudoku(sudoku);
         }else {
-            System.out.print("solution does not exists");
+            System.out.print("Solution does not exists");
         }
 
     }
